@@ -9,4 +9,3 @@ if __name__ == '__main__':
     init_topics()
     produce_new_from_newsapi_every_two_minutes()
 
-    

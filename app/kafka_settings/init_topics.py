@@ -27,8 +27,3 @@ def init_topics():
         print(f"Error creating topics: {e}")
     finally:
         admin_client.close()
-
-
-if __name__ == '__main__':
-    init_topics()
-
